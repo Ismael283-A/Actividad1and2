@@ -1,0 +1,7 @@
+D:\Actividad1and2\Actividad1and2\bin\Debug\Actividad1and2.exe.config
+D:\Actividad1and2\Actividad1and2\bin\Debug\Actividad1and2.exe
+D:\Actividad1and2\Actividad1and2\bin\Debug\Actividad1and2.pdb
+D:\Actividad1and2\Actividad1and2\obj\Debug\Actividad1and2.csproj.AssemblyReference.cache
+D:\Actividad1and2\Actividad1and2\obj\Debug\Actividad1and2.csproj.CoreCompileInputs.cache
+D:\Actividad1and2\Actividad1and2\obj\Debug\Actividad1and2.exe
+D:\Actividad1and2\Actividad1and2\obj\Debug\Actividad1and2.pdb
